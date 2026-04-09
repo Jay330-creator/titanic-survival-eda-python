@@ -14,6 +14,9 @@ Analyze passenger data to identify key factors such as class, gender, age, and f
 * Matplotlib
 * Jupyter Notebook
 
+## Visualizations
+The notebook includes visualizations analyzing survival by passenger class, gender, age group, and fare paid.
+
 ## Key Insights
 
 * Passengers in higher classes had significantly higher survival rates
