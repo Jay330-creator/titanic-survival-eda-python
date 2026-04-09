@@ -17,7 +17,7 @@ Analyze passenger data to identify key factors such as class, gender, age, and f
 ## Visualizations
 The notebook includes visualizations analyzing survival by passenger class, gender, age group, and fare paid.
 
-## Key Insights
+## Files
 
 * Passengers in higher classes had significantly higher survival rates
 * Female passengers were far more likely to survive than males
