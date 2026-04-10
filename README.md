@@ -16,25 +16,21 @@ Analyze passenger data to identify key factors such as class, gender, age, and f
 
 ## Visualizations
 
-### Survival Count
-![Titanic Chart 1](titanic-chart-1.png)
+### Fare vs Survival
+![Fare vs Survival](titanic-chart-1.png)
 
-### Fare Distribution by Survival
-![Titanic Chart 2](titanic-chart-2.png)
-
-### Survival by Passenger Class
-![Titanic Chart 3](titanic-chart-3.png)
+### Survival Rate by Group
+![Survival Rate by Group](titanic-chart-3.png)
 
 ## Key Insights
 
-- Passengers in higher classes had significantly higher survival rates
-- Female passengers were far more likely to survive than males
-- Children had higher survival rates compared to adults
-- Passengers who paid higher fares were more likely to survive
+- Passengers who paid higher fares were more likely to survive  
+- Female passengers had significantly higher survival rates  
+- Higher class passengers were more likely to survive  
+- Survival patterns highlight socioeconomic differences onboard  
 
 ## Project Files
 
-- `titanic_analysis.ipynb` – main notebook
-- `titanic-chart-1.png` – survival count chart
-- `titanic-chart-2.png` – fare distribution by survival
-- `titanic-chart-3.png` – survival by passenger class
+- `titanic_analysis.ipynb` – main notebook  
+- `titanic-chart-1.png` – fare vs survival visualization  
+- `titanic-chart-3.png` – survival rate by group  
