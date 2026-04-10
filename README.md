@@ -2,13 +2,9 @@
 
 This project performs exploratory data analysis (EDA) on the Titanic dataset to uncover patterns and factors that influenced passenger survival.
 
----
-
 ## Objective
 
 Analyze passenger data to identify key factors such as class, gender, age, and fare that impacted survival rates.
-
----
 
 ## Tools Used
 
@@ -18,24 +14,27 @@ Analyze passenger data to identify key factors such as class, gender, age, and f
 - Matplotlib
 - Jupyter Notebook
 
----
+## Visualizations
 
-## Visualization
+### Survival Count
+![Titanic Chart 1](titanic-chart-1.png)
 
-![Titanic Chart](titanic-chart-1.png)
+### Fare Distribution by Survival
+![Titanic Chart 2](titanic-chart-2.png)
 
----
+### Survival by Passenger Class
+![Titanic Chart 3](titanic-chart-3.png)
 
 ## Key Insights
 
-- Passengers in higher classes had significantly higher survival rates  
-- Female passengers were far more likely to survive than males  
-- Children had higher survival rates compared to adults  
-- Passengers who paid higher fares were more likely to survive  
-
----
+- Passengers in higher classes had significantly higher survival rates
+- Female passengers were far more likely to survive than males
+- Children had higher survival rates compared to adults
+- Passengers who paid higher fares were more likely to survive
 
 ## Project Files
 
-- `titanic_analysis.ipynb` – main notebook  
-- `titanic-chart-1.png` – visualization output  
+- `titanic_analysis.ipynb` – main notebook
+- `titanic-chart-1.png` – survival count chart
+- `titanic-chart-2.png` – fare distribution by survival
+- `titanic-chart-3.png` – survival by passenger class
